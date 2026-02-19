@@ -1,0 +1,54 @@
+4x4 m modüler alan için örnek bir kitap fuarı standı konsepti sunuyorum. Bu tasarım, orta ölçekli bir edebiyat yayınevi için kurgulanmıştır ve temel amacı: uzaktan algılanabilirlik, içeride düzenli sergileme ve kontrollü etkileşim sağlamaktır.
+
+Konsept adı: “Hikâyenin İçinden Geç”
+
+Ana fikir: Ziyaretçi standa girdiğinde sembolik olarak bir kitabın içine giriyormuş hissi yaşar. Mekân, açık bir kitabın soyutlanmış formu üzerine kurgulanır.
+
+Mekânsal Kurgu (4x4 m = 16 m²)
+
+Arka Duvar (4 m genişlik):
+Duvar, iki yana doğru açılmış dev kitap formunda tasarlanır. Ortada yayınevi logosu yer alır. Sol ve sağ kanatlar kitap sayfası gibi hafif eğimli MDF panellerden oluşur. Bu panellerin üzerine seçili 20–30 kitap kapağı grid sistemle yerleştirilir. Kapaklar öne dönük sergilenir.
+
+Yan Duvarlar (2 adet, 4 m derinlik):
+Modüler metal + ahşap raf sistemi kullanılır. Raf derinliği 25–30 cm. Raflar 30 cm aks aralığıyla hizalanır. Alt modüller depolama dolabı olarak kapalı tasarlanır. Üst bölümler tamamen sergi alanıdır.
+
+Giriş Cephesi:
+Standın ön üst kısmında 30–40 cm kalınlığında yatay bir başlık bulunur. Başlık üzerinde büyük puntoyla yayınevi adı yazılır. Logo arka aydınlatmalıdır (backlit pleksi).
+
+Merkez Alan:
+Ortada 120x60 cm ölçülerinde bir “yenilik masası” yer alır. Bu masa yalnızca yeni çıkan kitaplara ayrılır. Yüksekliği 90 cm. Masanın altı depolama amaçlı kapalıdır.
+
+İmza ve Etkileşim Alanı:
+Sağ arka köşede 140x60 cm masa + 3 sandalye bulunur. Arkasında sade bir branding paneli vardır. Panel üzerine bir slogan yerleştirilir. Bu alan standın genel akışını kesmeyecek şekilde konumlandırılır.
+
+Malzeme ve Renk:
+Zemin: Açık meşe tonunda vinil kaplama.
+Raflar: Siyah mat metal taşıyıcı + doğal ahşap raf tablası.
+Arka paneller: Kırık beyaz.
+Logo: Siyah veya koyu lacivert.
+
+Bu kombinasyon kitap kapaklarının renklerini öne çıkarır.
+
+Aydınlatma:
+Genel aydınlatma: 4000K lineer LED.
+Raf altlarına entegre LED şerit.
+Logo arkasında homojen difüz ışık.
+İmza alanında 2 adet yönlü spot.
+
+Işık, kitap kapaklarında gölge üretmeyecek açıyla yerleştirilir.
+
+Yükseklik:
+Maksimum 3,5 m önerilir. Üstten asılı hafif bir “açık sayfa” formu (ince alüminyum çerçeve + gerili kumaş baskı) mekânsal etkiyi güçlendirir.
+
+Fark Yaratacak Unsur:
+Arka duvarın ortasında 60 cm derinliğinde bir niş oluşturulur. Nişin içinde tek bir kitap, dramatik spot ile aydınlatılır. Bu alan “ayın kitabı” olarak kullanılır. Fotoğraf noktası işlevi görür.
+
+Grafik Dil:
+Metin kullanımı minimum tutulur.
+Yazar fotoğrafları siyah-beyaz olabilir.
+Tipografi güçlü ve sade olmalıdır.
+
+Yaklaşık Bütçe Segmenti:
+Orta ölçekli modüler sistem.
+Özel üretim arka duvar paneli.
+Stand başına tekrar kullanılabilir raf sistemi.
