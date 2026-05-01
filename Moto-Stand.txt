@@ -1,0 +1,38 @@
+Dinamik Motosiklet Stand Tasarımı
+Slayt 1: Konsept ve Vizyon
+
+Sunum Metni: "Moto-Stand", motosikletin ruhunda yatan hızı, aerodinamiği ve özgürlüğü temsil eder. Tasarımın ana odak noktası, ziyaretçiye durağan bir fuar alanında dahi hareket ve ivme hissini yaşatmaktır. Keskin açılar ve akıcı çizgiler, bir motosikletin rüzgarı yarma anından ilham alarak tasarlanmıştır.
+
+Görsel Betimlemesi (Ekranda Yer Alacak Görsel): Karanlık, asfalt dokulu bir zemin üzerinde parlayan, rüzgar tünelini andıran neon LED çizgiler. Merkezde, ışıkların birleştiği noktada gizemli bir silüet halinde duran ana motosikletin yüksek kaliteli 3D render'ı.
+
+Slayt 2: Mekansal Organizasyon ve Yerleşim Planı
+
+Sunum Metni: Stand alanı, ziyaretçi akışını kesintisiz kılmak için dört ana bölgeye ayrılmıştır:
+
+Odak (Hero) Alanı: En yeni veya konsept modelin sergilendiği podyum.
+
+Etkileşim Alanı: Dokunmatik ekranlar ve konfigürasyon istasyonları.
+
+Lounge/VIP: Potansiyel müşterilerle görüşmeler için yarı izole, konforlu alan.
+
+Aksesuar/Donanım Duvarı: Kask, ceket ve özel parçaların sergilendiği modüler ünite.
+
+Görsel Betimlemesi: Yukarıdan (kuşbakışı) çizilmiş 2D mimari vaziyet planı. Farklı işlevlere sahip bölgeler farklı renklerle (örneğin odak alanı kırmızı, lounge alanı gri) işaretlenmiş. İnsan figürleriyle ölçeklendirme yapılmış ve ziyaretçi sirkülasyon yönleri kesik çizgili oklarla gösterilmiş.
+
+Slayt 3: Malzeme Seçimi ve Doku
+
+Sunum Metni: Standın genel karakterini endüstriyel ve premium malzemeler oluşturur. Karbon fiber detaylar, fırçalanmış alüminyum paneller ve mat siyah çelik konstrüksiyon, yüksek mühendislik hissini mekana taşır. Lounge alanında kullanılan deri detaylar ise lüks ve konfor algısını dengeler.
+
+Görsel Betimlemesi: Bir "moodboard" (ilham panosu) tarzında mimari kolaj. Karbon fiber bir yüzeyin makro çekimi, mat siyah metal kafes kirişler ve sıcak bir kontrast yaratmak için bekleme alanında kullanılan taba rengi deri koltukların detay fotoğrafları.
+
+Slayt 4: Aydınlatma Stratejisi
+
+Sunum Metni: Aydınlatma, mekanı aydınlatmaktan ziyade ziyaretçiyi yönlendirmek ve dramatik bir etki yaratmak için kullanıldı. Tavandan sarkan açılı lineer LED barlar, "hız çizgileri" illüzyonu yaratarak merkezdeki podyuma doğru uzanır. Zemin seviyesindeki gizli aydınlatmalar ise motosikletlerin havada süzüldüğü hissini verir.
+
+Görsel Betimlemesi: Fuar alanının loş ortam simülasyonu yapılmış bir 3D render'ı. Tavandaki LED barların keskin ışık hüzmeleri merkezdeki motosikleti vurgularken, motosikletin tekerlek altlarından yayılan hafif bir zemin ışığı (halo efekti) görünüyor.
+
+Slayt 5: Dijital Entegrasyon
+
+Sunum Metni: Arka plandaki devasa yüksek çözünürlüklü LED ekranda, motosikletin zorlu virajlardaki sürüş videoları dönerek alanın dinamizmini artırır. Standda yer alan dijital kiosklar, ziyaretçilerin kendi motosikletlerini renklendirmelerine ve parça modifikasyonlarını sanal olarak yapmalarına olanak tanır.
+
+Görsel Betimlemesi: Standın ön köşesinden alınmış geniş açılı bir render. Arka duvarda hareketli bir pist videosu oynatan kesintisiz dev ekran, önünde ise şık bir stantta duran dijital ekranda motosikletin 3D patlatılmış halinin (exploded view) göründüğü interaktif bir sahne.
