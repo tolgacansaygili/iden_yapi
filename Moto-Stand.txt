@@ -1,7 +1,7 @@
 Dinamik Motosiklet Stand Tasarımı
 Slayt 1: Konsept ve Vizyon
 
-Sunum Metni: "Apex", motosikletin ruhunda yatan hızı, aerodinamiği ve özgürlüğü temsil eder. Tasarımın ana odak noktası, ziyaretçiye durağan bir fuar alanında dahi hareket ve ivme hissini yaşatmaktır. Keskin açılar ve akıcı çizgiler, bir motosikletin rüzgarı yarma anından ilham alarak tasarlanmıştır.
+Sunum Metni: "Moto-Stand", motosikletin ruhunda yatan hızı, aerodinamiği ve özgürlüğü temsil eder. Tasarımın ana odak noktası, ziyaretçiye durağan bir fuar alanında dahi hareket ve ivme hissini yaşatmaktır. Keskin açılar ve akıcı çizgiler, bir motosikletin rüzgarı yarma anından ilham alarak tasarlanmıştır.
 
 Görsel Betimlemesi (Ekranda Yer Alacak Görsel): Karanlık, asfalt dokulu bir zemin üzerinde parlayan, rüzgar tünelini andıran neon LED çizgiler. Merkezde, ışıkların birleştiği noktada gizemli bir silüet halinde duran ana motosikletin yüksek kaliteli 3D render'ı.
 
