@@ -1,0 +1,53 @@
+Proje Adı: Tek Eğimli (Çatılı) Kulübe
+
+Kullanım Amacı: Hafta sonu evi / Çalışma atölyesi
+
+Taban Alanı: 40 m 
+2
+  (5m×8m)
+
+Çatı Tipi: Tek Yöne Eğimli Kulübe Çatısı
+
+
+
+Tasarım ve Mimari Detaylar:
+
+Kulübe çatısının en büyük avantajı, iç mekanda yüksek tavan ferahlığı sağlamasıdır. Tasarımımızı bu avantajı maksimuma çıkaracak şekilde kurguluyoruz:
+
+Eğim Yönü ve Açısı: Çatı eğimini, bölgenin hakim rüzgar ve yağış yönünün tersine gelecek şekilde arkaya doğru veriyoruz. Eğim açısını ise %12 ila %15 (≈7°−8°) arasında tutarak hem kar yükünü rahat atmasını sağlıyoruz hem de modern görünümü koruyoruz.
+
+Yüksek Duvar (Ön Cephe): 3.80 m (Bu cepheye tavana kadar uzanan geniş camlar koyarak gün ışığını içeri davet ediyoruz).
+
+Alçak Duvar (Arka Cephe): 2.40 m (Yatak alanı veya mutfak tezgahı gibi daha az yükseklik gerektiren fonksiyonları buraya çözüyoruz).
+
+
+
+Malzeme Seçimi ve Yapım Aşamaları:
+
+Kulübe çatılarının taşıyıcı sistemi basittir çünkü kirişler (mertekler) iki duvar arasında tek bir hat halinde uzanır.
+
+1. Taşıyıcı Sistem (Karkas)
+Ahşap Mertekler: 5×15 cm veya 5×20 cm ebatlarında, fırınlanmış çam ağacı. Mertek arası mesafeleri kar yüküne göre 40 cm veya 60 cm olarak çıtalıyoruz.
+
+Duvar Yastıkları (Gömlekler): Çatının yükünü duvarlara eşit dağıtmak için duvar üstlerine 10×10 cm kalaslar sabitlenir.
+
+2. Çatı Katmanları (Aşağıdan Yukarıya)
+Bir çatının ömrünü yalıtım belirler. Katman sıralamamız tam olarak şöyle olmalı:
+
+Katman Sırası	Malzeme	İşlev
+1. İç Tavan	Lambri veya Alçıpan	İç mekan estetiği
+2. Buhar Kesici	Polietilen Örtü	İçerideki nemin yalıtıma zarar vermesini önler
+3. Isı Yalıtımı	10 cm Taş Yünü	Yazın serin, kışın sıcak tutar
+4. Taşıyıcı Yüzey	18 mm OSB Plaka	Çatı kaplamasının basacağı sağlam zemin
+5. Su Yalıtımı	Membran veya Bitümlü Örtü	Yağmur ve kar suyuna karşı kesin koruma
+6. Son Kat Kaplama	Kenet Metal (Trapez) veya Shingle	Estetik ve dış etkenlere karşı dayanıklılık
+
+
+
+Tek Eğimli Çatının Avantajları ve Püf Noktaları:
+
+Kritik İpucu: Bu tür çatılarda tek bir eğim olduğu için tüm yağmur suyu tek bir yöne akar. Bu yüzden arka cephedeki yağmur oluğu ve iniş borusu tesisatının normalden biraz daha geniş (örneğin 150 mm'lik oluk) seçilmesi hayati önem taşır.
+
+Güneş Paneli Dostu: Çatının eğimli yüzeyini tam güneye bakacak şekilde konumlandırırsak, üzerine kurulacak güneş panellerinden maksimum verim alırız.
+
+Düşük Maliyet: Beşik veya kırma çatılara göre işçiliği çok daha azdır ve malzeme israfı minimumdur.
