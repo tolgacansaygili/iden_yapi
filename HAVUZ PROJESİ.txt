@@ -1,0 +1,49 @@
+HAVUZ PROJESİ - VILLA SOLEIL
+
+1. Proje Kimliği ve Genel Yerleşim
+
+Tip: Villa peyzaj ve açık yüzme havuzu projesi.
+
+Form: Serbest (amorf/organik) formlu tasarım.
+
+Bileşenler: Ana havuz, entegre jakuzi, güneşlenme sığ alanı, ahşap güverte, kamelya.
+
+2. Mimari Bölümler ve Fonksiyonlar
+
+Ana Havuz: Organik kıvrımlı yüzme alanı; orta aksta 17'10" genişliğe sahiptir.
+
+Güneşlenme Bölümü: Havuz içi basamaklı ve sığ oturma alanı.
+
+Jakuzi Bölümü: Güneşlenme alanına komşu, dairesel formlu hidromasaj ünitesi.
+
+Ahşap Güverte: İpe ahşap kaplı, jakuziyi ve kamelyayı çevreleyen platform.
+
+Kamelya ve Geçiş: Ahşap platform ucunda dinlenme alanı; adım taşlarıyla erişim sağlanır.
+
+3. Malzeme ve Kaplama Lejantı
+
+Havuz İçi: Çakıl Tec (Pebble Tec) kaplama kaplama malzemesi.
+
+Sert Zemin / Harpusta: Traverten taş kaplama.
+
+Güverte Kaplaması: İpe ahşap kaplama (İpe Ahşap Kaplama 24).
+
+Kenar Detayı: Kaybolan kenar (vanishing edge / sonsuzluk kenarı) sistemi.
+
+4. Geometrik Ölçüler ve Akslar
+
+Toplam Plan Boyutları: 29.70" x 35.20" genel aks ölçüleri.
+
+Parçalı Plan Aksları: 1.30", 16.10", 1.20", 3.30" boylamasına ölçüler; 1.30", 35.20", 16.80", 3.5" enlemesine ölçüler.
+
+Taban Ölçüleri: 23'0", 13'1/0", 99'1/0" uzunluk aksları.
+
+5. A-A Kesit ve Yapısal Detaylar
+
+Havuz Tabanı: Eğimli, kademeli derinleşen betonarme çanak yapısı.
+
+Derinlik Kotları: Sol kenarda 2'70" su derinliği/duvar yüksekliği; sığ bölümde 1'70" kotu.
+
+Sonsuzluk Detayı: Sol tarafta "Vanishing Edge" toplama kanalı ve yapısı.
+
+Bitiş Detayı: Sağ kenarda Çakıl Tec bitirme kabuğu ve perde duvar birleşimi.
